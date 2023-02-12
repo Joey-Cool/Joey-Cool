@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a Shopify Store Setup
-- 🌱 I’m currently learning JS and React
+- 🌱 Always improving JS and Liquid
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
